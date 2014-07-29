@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringEmail"
+  id="myeclipse.1388625852923"
+  context-root="/SpringEmail"
+  j2ee-spec="6.0"
+  archive="SpringEmail.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
